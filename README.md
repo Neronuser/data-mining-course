@@ -25,4 +25,4 @@ jupyter notebook
 jupyter lab
 ```
 
-Відкрийте потрібний notebook з папки `notebooks/`.
+Відкрийте потрібний notebook у середовищі Jupyter.
